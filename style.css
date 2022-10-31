@@ -279,7 +279,7 @@ li{
   font-weight: normal;
   font-style: normal;
   text-decoration: inherit;
-  content: "\f041";
+  content: fa-map-marker;
 }
 
 /***** fine-tunes on the lists... *****/
